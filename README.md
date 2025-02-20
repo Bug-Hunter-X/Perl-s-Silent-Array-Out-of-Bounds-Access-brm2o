@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet easily overlooked, error in Perl: accessing array elements beyond the defined bounds.  Perl silently returns undef instead of throwing an exception, which can cause subtle and hard-to-debug problems. The example shows how this can lead to unexpected results and offers a solution.
